@@ -6,7 +6,7 @@
 
 ## Utilização
 
-Para clonar e executar este repositório, você precisará do [Git] (https://git-scm.com) e do [Node.js] (https://nodejs.org/en/download/) (que vem com [npm ] (http://npmjs.com)) instalado no seu computador. De sua linha de comando:
+Para clonar e executar este repositório, você precisará do [Git](https://git-scm.com) e do [Node.js](https://nodejs.org/en/download/) (que vem com [npm](http://npmjs.com)) instalado no seu computador. De sua linha de comando:
 
 
 ```bash
