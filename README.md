@@ -11,7 +11,7 @@ Para clonar e executar este repositório, você precisará do [Git] (https://git
 
 ```bash
 # Clone este repositório
-git clone https://gitlab.com/luis.fernando.pereira/electron-basic
+git clone https://github.com/lfcontato/electron-basic.git
 # Vá para o repositório
 cd electron-basic
 # Instalar dependências
