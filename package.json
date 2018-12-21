@@ -1,0 +1,26 @@
+{
+  "name": "electron-basic",
+  "version": "1.0.0",
+  "description": "Aplicação básica em Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "git+git@github.com:lfcontato/electron-basic.git",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo",
+    "basic"
+  ],
+  "author": "@lfcontato",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.7"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
