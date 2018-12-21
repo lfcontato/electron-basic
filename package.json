@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "git+git@github.com:lfcontato/electron-basic.git",
+  "repository": "git@github.com:lfcontato/electron-basic.git",
   "keywords": [
     "Electron",
     "quick",
